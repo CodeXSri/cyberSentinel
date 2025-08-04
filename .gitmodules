@@ -1,0 +1,3 @@
+[submodule "cyberSentinel"]
+	path = cyberSentinel
+	url = https://github.com/CodeXSri/cyberSentinel.git
